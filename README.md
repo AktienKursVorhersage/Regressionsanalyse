@@ -8,11 +8,11 @@
 
 ## Idee
 
-Im Rahmen unserer Untergruppe haben wir uns dazu entschieden, den Aktienkurs-Verlauf der VW-Aktie mit Hilfe der Regressions zu bestimmen. 
+Im Rahmen unserer Untergruppe haben wir uns dazu entschieden, den Aktienkurs-Verlauf der VW-Aktie mit Hilfe der Regressionsanalyse zu bestimmen. 
 
 ## Umsetzung
 
-Bei der Umsetzung haben wir uns für zwei Varianten der Regression entschieden:
+Bei der Umsetzung haben wir uns für zwei Varianten der Regressionsanalyse entschieden:
 
 - Lineare Regression:
 
