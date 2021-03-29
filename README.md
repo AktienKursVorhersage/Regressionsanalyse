@@ -14,6 +14,5 @@ Im Rahmen unserer Untergruppe haben wir uns dazu entschieden, den Aktienkurs-Ver
 
 Bei der Umsetzung haben wir uns für zwei Varianten der Regressionsanalyse entschieden:
 
-- Lineare Regression:
-
-- Polynomiale Regression:
+- Lineare Regression
+- Polynomiale Regression
