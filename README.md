@@ -16,3 +16,8 @@ Bei der Umsetzung haben wir uns für zwei Varianten der Regressionsanalyse entsc
 
 - Lineare Regression
 - Polynomiale Regression
+
+## Lösung
+
+![Lineare Regression](http://url/to/img.png)
+![Polynomiale Regression](http://url/to/img.png)
