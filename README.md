@@ -19,5 +19,5 @@ Bei der Umsetzung haben wir uns für zwei Varianten der Regressionsanalyse entsc
 
 ## Ergebnisse
 
-![Lineare Regression](https://github.com/AktienKursVorhersage/Regressionsanalyse/blob/4958694737f967cb58a2f9e7eb07a5c831e9abee/linear.png)
-![Polynomiale Regression](https://github.com/AktienKursVorhersage/Regressionsanalyse/blob/4958694737f967cb58a2f9e7eb07a5c831e9abee/poly.png)
+![Lineare Regression](https://github.com/AktienKursVorhersage/Regressionsanalyse/blob/4958694737f967cb58a2f9e7eb07a5c831e9abee/linear.png "Lineare Regression")
+![Polynomiale Regression](https://github.com/AktienKursVorhersage/Regressionsanalyse/blob/4958694737f967cb58a2f9e7eb07a5c831e9abee/poly.png "Polynomiale Regression")
