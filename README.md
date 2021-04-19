@@ -2,9 +2,9 @@
 
 ## Bearbeiter
 
-- Tobias Jansen
-- Calogero Meli
-- Lilli Michaelis
+- Tobias Jansen (tobias.jansen@sap.com)
+- Calogero Meli (calogero.meli@sap.com)
+- Lilli Michaelis (lilli.mich@web.de)
 
 ## Idee
 
